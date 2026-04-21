@@ -1,0 +1,3327 @@
+[
+    {
+        "pergunta": "O primeiro sistema de colonização adotado no Brasil foi:",
+        "opcoes": [
+            "Capitania Hereditária",
+            "Capitania de Povoamento",
+            "Capitania de todos os Portos",
+            "Capitania Portuguesa"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "É correto afirmar que foi mais vezes eleito em Borrazópolis:",
+        "opcoes": [
+            "Mário Cividini",
+            "Licas",
+            "Rodolfo Haider",
+            "Padre Osvaldo"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Foi a primeira capital do Brasil:",
+        "opcoes": [
+            "Rio de Janeiro",
+            "Salvador",
+            "São Paulo",
+            "Ouro Preto"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Estados que formaram a confederação do Equador:",
+        "opcoes": [
+            "Maranhão, Paraiba, Piauí e Ceará",
+            "Pernambuco, Pará, Piauí e Paraíba",
+            "Rio Grande do Norte, Pará, Piauí e Ceará",
+            "Ceará, Pernambuco, Paraíba e Rio Grande do Norte"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Presidente que mandou construir a atual capital do Brasil:",
+        "opcoes": [
+            "Getúlio Vargas",
+            "Juscelino Kubitschek",
+            "Fernando Henrique",
+            "Jango"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Foram os descobridores do ouro em Minas Gerais:",
+        "opcoes": [
+            "Bandeirantes Paulistas",
+            "Bandeirantes Mineiros",
+            "Bandeirantes Espanhóis",
+            "Bandeirantes Portugueses"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Caravelas que fizeram a viagem da chegada dos espanhóis nas terras americanas:",
+        "opcoes": [
+            "Aquarela, Pinta e Santa Ana",
+            "Pinta, Nina e Santa Ana",
+            "Pinta, Nina e Santa Maria",
+            "Pinta, Nina e Aquarela"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "É considerada a grande parteira de Borrazópolis:",
+        "opcoes": [
+            "D. Genaria Mikulim",
+            "D. Joana Mikulim",
+            "D. Brunoslava Mikulim",
+            "D. Josefa Mikulim"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Após a Independência o primeiro regime político do Brasil foi:",
+        "opcoes": [
+            "Ditadura",
+            "Monarquia",
+            "República presidencialista",
+            "República parlamentarista"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Padre português que rezou a primeira missa no Brasil:",
+        "opcoes": [
+            "José de Anchieta",
+            "Dom Bosco",
+            "Frei Caneca",
+            "Frei Henrique Soares de Coimbra"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "O movimento que pôs fim do regime de monarquia no Brasil foi liderado:",
+        "opcoes": [
+            "Comerciantes portugueses",
+            "Militares",
+            "Pelos fazendeiros",
+            "Comerciantes"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Brasileiro que é considerado patrono da industrialização brasileira:",
+        "opcoes": [
+            "Barão de Mauá",
+            "Barão de Taubaté",
+            "Visconde de Olinda",
+            "Visconde de Ouro Preto"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "A primeira viagem de circunavegação da terra foi realizada por:",
+        "opcoes": [
+            "Fernão de Magalhães",
+            "Bartolomeu Dias",
+            "Pedro Álvares Cabral",
+            "Cristóvão Colombo"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Primeiro Governador Geral do Brasil:",
+        "opcoes": [
+            "Tomé de Souza",
+            "Mem de Sá",
+            "Duarte da Costa",
+            "D. Miguel"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Caminho utilizado pelos tropeiros paranaenses:",
+        "opcoes": [
+            "Caminho de Viamão",
+            "Caminho de Peabiru",
+            "Caminho de Itupeva",
+            "Caminho de Guarapuava"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "É considerado o primeiro governador do Estado do Paraná:",
+        "opcoes": [
+            "Francisco José Cardoso Junior",
+            "José Marque Guimarães",
+            "Parigot de Souza",
+            "Lupion"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Entre as personagens abaixo assinale o líder da Guerra de Canudos:",
+        "opcoes": [
+            "Frei Caneca",
+            "Antonio Conselheiro",
+            "Tiradentes",
+            "João Maria"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Primeiro país a reconhecer a nossa independência:",
+        "opcoes": [
+            "Estados Unidos",
+            "Paraguai",
+            "Argentina",
+            "Espanha"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "A primeira constituição brasileira foi outorgada em:",
+        "opcoes": [
+            "1934",
+            "1824",
+            "1891",
+            "1988"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O autor da letra do Hino Nacional Brasileiro:",
+        "opcoes": [
+            "Francisco Manuel da Silva",
+            "Joaquim Osório Duque Estrada",
+            "José da Silva Lisboa",
+            "José Domingos e Silva"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Presidente que ficou conhecido por Marechal de Ferro:",
+        "opcoes": [
+            "Deodoro da Fonseca",
+            "Floriano Peixoto",
+            "Prudente de Morais",
+            "Campos Sales"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Mar mais navegado durante o século XV:",
+        "opcoes": [
+            "Mar Vermelho",
+            "Mar Morto",
+            "Mar Negro",
+            "Mar Mediterrâneo"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Povos europeus que invadiram o Brasil em 1555:",
+        "opcoes": [
+            "Portugueses",
+            "Ingleses",
+            "Holandeses",
+            "Franceses"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Foi considerado o Ouro Verde no Brasil:",
+        "opcoes": [
+            "Café",
+            "Cana-de-açúcar",
+            "Cana-de-açúcar",
+            "Soja"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Líder da Revolução Cubana em 1959:",
+        "opcoes": [
+            "Che Guevara",
+            "Ghandi",
+            "João Maria",
+            "João Candido"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "O ano de 1969 entrou para a história com o marco:",
+        "opcoes": [
+            "Chegada do homem a lua",
+            "A queda das Torres Gêmeas",
+            "Fim da 2ª Guerra Mundial",
+            "Fim da Guerra do Iraque"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "O futebol foi trazido ao Brasil por:",
+        "opcoes": [
+            "Edson Arantes do Nascimento",
+            "Charles Miller",
+            "Mário Jorge Lobo Zagalo",
+            "Manoel Garrincha"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Presidente destituído do poder pelo golpe militar de 1964:",
+        "opcoes": [
+            "Getúlio Vargas",
+            "Jânio Quadros",
+            "João Goulart",
+            "Júlio Preste"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "A República Velha ficou conhecida:",
+        "opcoes": [
+            "Café com leite",
+            "Liberal",
+            "Ditadura",
+            "Cidadã"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Presidente republicano que mais tempo ficou no poder:",
+        "opcoes": [
+            "Juscelino Kubitschek",
+            "Tancredo Neves",
+            "Getúlio Vargas",
+            "Castelo Branco"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Revolução que derrubou a Política Café-com-Leite:",
+        "opcoes": [
+            "Revolução de 1964",
+            "Revolução do Equador",
+            "Revolução de 1930",
+            "Revolução Mineira"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "D. Pedro II governou o Brasil por:",
+        "opcoes": [
+            "15 anos",
+            "9 anos",
+            "49 anos",
+            "27 anos"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Todos foram colonizados pelos portugueses exceto:",
+        "opcoes": [
+            "África do Sul",
+            "Angola",
+            "Moçambique",
+            "Açores"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Árvore símbolo do Paraná:",
+        "opcoes": [
+            "Cedro",
+            "Araucária",
+            "Imbuía",
+            "Peroba"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Líder da revolta do Contestado:",
+        "opcoes": [
+            "Antonio Conselheiro",
+            "Frei Caneca",
+            "João Maria",
+            "João Candido"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Após a 2ª Guerra Mundial a hegemonia mundial ficou com:",
+        "opcoes": [
+            "Inglaterra e Alemanha",
+            "União Soviética e Alemanha",
+            "Inglaterra e Estados Unidos",
+            "União Soviética e Estados Unidos"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Slogan da Revolução Francesa:",
+        "opcoes": [
+            "Liberdade antes que tardia",
+            "França! Um país de todos",
+            "Liberdade, Igualdade e Fraternidade",
+            "Liberdade e Igualdade esta é a nossa diferença"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Francisco Manuel da Silva foi autor da melodia do Hino:",
+        "opcoes": [
+            "Independência",
+            "Paraná",
+            "Nacional",
+            "Bandeira"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "A Constituição cidadã foi promulgada em:",
+        "opcoes": [
+            "1971",
+            "1934",
+            "1988",
+            "1946"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Foi o último presidente da República Velha:",
+        "opcoes": [
+            "Afonso Pena",
+            "Washington Luís",
+            "Nilo Peçanha",
+            "Epitácio Pessoa"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Diretor da Escola Augusto Bahls",
+        "opcoes": [
+            "Marcio",
+            "Joao",
+            "Angela",
+            "Marcos"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Prefeito de Faxinal",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Galo",
+            "Hermes Santa Rosa",
+            "Adilson SIlva Lino",
+            "Hermes Silva Linio"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "1 - Lei que aboliu a Escravidão Negra:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Eusébio de Queirós",
+            "Maria da Penha",
+            "Lei Áurea",
+            "Lei Seca"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Emmanuel Macron e Volodymyr Zelensky são, respectivamente, os governantes de quais países?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "França e Rússia",
+            "Alemanha e Ucrânia",
+            "França e Ucrânia",
+            "Bélgica e Rússia"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Qual o nome do líder da Coréia do Norte?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Pak Pong-ju",
+            "Kim Jong-un",
+            "Kim Jong II",
+            "Moon Jae-in"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual relíquia, guardada em Portugal, veio para o Brasil apenas para a comemoração do bicentenário da Independência?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Coração de D. Pedro I",
+            "A espada de D. Pedro I",
+            "A carta de D. Pedro I a D. João VI",
+            "A roupa de D. Pedro I usava no dia 7 de setembro de 1822"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Por quantos anos a Rainha Elizabeth II governou?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "96 anos",
+            "75 anos",
+            "90 anos",
+            "70 anos"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "As eleições municipais elegem?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Senadores, deputados e vereadores",
+            "Governadores, vereadores e prefeito",
+            "Prefeito, vice-prefeito e vereadores",
+            "Presidente, vice-presidente e vereadores"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Quantos Partidos políticos existem atualmente no Brasil?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "62",
+            "33",
+            "29",
+            "43"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Regime político em que o poder é exercido por um pequeno grupo de pessoas pertencentes ao mesmo partido, classe ou família:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Democracia",
+            "Oligarquia",
+            "Autarquia",
+            "Parlamentarismo"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Designa uma forma de enxergar outra etnia como inferior com base na etnia própria?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Egocentrismo",
+            "Eurocentrismo",
+            "Etnocentrismo",
+            "Absolutismo"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "As pinturas rupestres podem ser consideradas uma fonte histórica, a qual fonte ela pertence?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "textual",
+            "visual",
+            "Objetos arqueológicos",
+            "Material"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Ao trabalhar com o relato de pessoas idosas, o historiador estará utilizando uma fonte:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "visual",
+            "vestígio arqueológico",
+            "escrita",
+            "oral"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "O período histórico atual é:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Idade Contemporânea",
+            "Idade Antiga",
+            "Pré-história",
+            "Idade Moderna"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Qual dos itens abaixo corresponde a uma invenção dos egípcios:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "pergaminho",
+            "alfabeto",
+            "papiro",
+            "roda"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "A Cabanagem, revolta popular e social ocorrida durante o Império do Brasil, foi influenciada pela:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Revolução Francesa",
+            "Revolução Russa",
+            "Revolução Italiana",
+            "Revolução Portuguesa"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Conflito que aconteceu no século XVI e que se iniciou na Boêmia por questões religiões:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Guerra dos Cem ano",
+            "Guerra dos Trinta anos",
+            "Guerra Anglo-holandesa",
+            "Guerra Anglo-espanhola"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Estamos no ano de 2024, como se escreve 2024 em algarismos romanos?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "M M X X I V",
+            "M D C X X V",
+            "M M C C X I V",
+            "M X X I V"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "A principal diferença entre as ideias defendida por Martinho Lutero e Calvino está relacionada com:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "a liturgia dos cultos",
+            "A salvação",
+            "o dízimo",
+            "as autoridades eclesiásticas"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o movimento intelectual surgido no século XVIII, conhecido como a Idade da Razão?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Socialismo",
+            "Renascimento",
+            "Iluminismo",
+            "Romantismo"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "O mercantilismo se associou diretamente com qual forma de governo?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Anarquismo",
+            "Democracia",
+            "Plutocracia",
+            "Absolutismo"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Quem foi um dos protagonistas da Revolução Haitiana?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Perre Lemouneide",
+            "Toussaint L’Ouverture",
+            "Jean Claude Vergerium",
+            "Natan Dusset Carbimeneam"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual foi a inspiração para a Constituição dos EUA?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Absolutismo",
+            "Iluminismo",
+            "Cubismo",
+            "Totalitarismo"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome do Presidente atual da Ucrânia?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Castelo Branco",
+            "Volodvmyr Zelensky",
+            "Joe Biden",
+            "Vladimir Putin"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o ano da Invasão da Ucrânia pela Rússia, ou oficialmente pelo governo russo como a \"Operação Militar Especial na Ucrânia\"?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "1992",
+            "2002",
+            "2022",
+            "1982"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Qual o principal motivo da invasão russa a Ucrânia?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "expansão da Otan pelo Leste Europeu.",
+            "expansão do comunismo pela África.",
+            "Aumento da industrialização americana",
+            "Produção de material bélico pela Ucrânia."
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Qual é o regime de governo adotado na Rússia?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Comunismo",
+            "Socialismo",
+            "Ditadura",
+            "Semipresidencialismo"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Há quantos anos Vladimir Putin governa a Russia?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "10 anos",
+            "15 anos",
+            "23 anos",
+            "31 anos"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Uma verdade sobre a Rússia?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "É o maior pais em extensão territorial do mundo",
+            "É a menor economia do mundo",
+            "É a maior potência na área da agricultura do mundo",
+            "É a menor extensão territorial do mundo."
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Presidente do Brasil eleito três vezes pelo voto direto.",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Getúlio Vargas",
+            "Lula",
+            "Castro Alves",
+            "Jânio Quadros"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a localização geográfica da Venezuela?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "centro da América do norte",
+            "norte da América do Norte",
+            "norte da Ásia",
+            "norte da América do Sul"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Qual é a capital da Venezuela?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "El Salvador",
+            "Caracas",
+            "Peru",
+            "Guina Francesa"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a principal riqueza da Venezuela?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Petróleo",
+            "Gás natural",
+            "Carvão",
+            "Diamantes"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "É a maior floresta equatorial do mundo, que abriga cerca de um décimo da biodiversidade global.",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Floresta Amazônica",
+            "Floresta do Congo",
+            "Floresta de Daintree",
+            "Floresta Nublada"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Segundo o censo de 2022 a maior parte da população brasileira se autodeclara?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Branca",
+            "Amarelo",
+            "Parda",
+            "Preta"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Segundo dados do IBGE existem quantos municípios no Brasil?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "4.323",
+            "5.586",
+            "6.204",
+            "5.123"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a maior festa popular brasileira?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Festa Junina",
+            "Carimbó",
+            "Boi Garantido",
+            "Carnaval"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Território russo vendido aos Estados Unidos em 1867, compra que fez com que o território Norte Americano crescesse em 1,5 milhão de quilômetros quadrados.",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Alasca",
+            "Havaí",
+            "Ilhas Virgens",
+            "Guam"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Em 1986, a Ucrânia viveu um dos seus piores momentos. O que aconteceu?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Acidente Aéreo",
+            "Acidente Nuclear de Chernobyl",
+            "Acidente do Trenzinho da Alegria",
+            "Acidente da Chapecoense"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o significado do nome Ucrânia?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "terra de fronteira ou marcha",
+            "terra limite",
+            "terra livre e abençoada",
+            "terra independente"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Qual é o menor pais do oriente médio?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Arábia Saudita",
+            "Bahrein",
+            "Irã",
+            "Iraque"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O pais tem 95% de seu território formado apenas por desertos, tem uma superfície terrestre imensa, é o maior país árabe da Ásia.",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Afeganistão",
+            "Iraque",
+            "Arábia Saudita",
+            "Azerbaijão"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Qual o Slogan do governo Lula atual?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Pra Frente Brasil",
+            "Deus acima de Todos",
+            "Força e Desenvolvimento",
+            "União e Reconstrução"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Movimento Nacional pela vacinação, implantado pelo Governo Federal em 2023, com o objetivo de conscientizar e incentivar a vacinação no país.",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Vacina é Vida",
+            "Vacina é Importante",
+            "Vacina no Braço",
+            "Vacina é Amor"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Projeto de Lei 1085/23 do poder executivo prevê pagamento igual obrigatório para homens e mulheres que exercem a mesma função.",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Lei de Igualdade Racial",
+            "Lei de Igualdade Salarial",
+            "Lei de Separação Salarial",
+            "Lei de Desigualdade Salarial"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O Brasil foi sétima maior economia do mundo entre 2010 e 2014. Em 2022, caiu para 11ª. Segundo projeção feita pelo FMI, afirma de que o Brasil crescerá 2,2% em 2024, ultrapassando a Itália e se tornará?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "A 5º economia do mundo",
+            "A 6º economia do mundo",
+            "A 7º economia do mundo",
+            "A 8º economia do mundo"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Qual é o país mais rico da América do Sul?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Chile",
+            "Argentina",
+            "Brasil",
+            "Colômbia"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Qual o país mais endividado da América do Sul?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Argentina",
+            "Paraguai",
+            "Uruguai",
+            "Venezuela"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Qual o Slogan de governo do atual Prefeito de Borrazópolis?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Cuidando da nossa gente",
+            "Cuidando do nosso Povo",
+            "Fé e reconstrução",
+            "Fé e Desenvolvimento"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Qual o número populacional de Borrazópolis segundo dados do IBGE de 2022?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "6.375",
+            "7.735",
+            "9.000",
+            "6.578"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome de Batismo do apresentador de televisão e empresário brasileiro Silvio Santos?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Penhor Abravanel",
+            "Pedro Abravanel",
+            "Silvio Abravanel",
+            "Senor Abravanel"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Pais formado por 6.700 ilhas, mais de 70% de seu território são de montanhas, incluindo cerca de 200 vulcões, sendo mais de 100 deles ativos.",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Pérsia",
+            "China",
+            "Japão",
+            "Coréia do Norte"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Governa a China atualmente?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Xi Zhongxun",
+            "Xi Jinping",
+            "Qi Xin",
+            "QI Xing"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Continente que foi encontrado em 1492:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Europeu",
+            "África",
+            "Antártida",
+            "Americano"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Países que são considerados pioneiros das grandes navegações:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Itália e Japão",
+            "Espanha e Portugal",
+            "Inglaterra e França",
+            "Portugal e Itália"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Terra encontrada pelos portugueses em 22 de abril de 1500:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Estados Unidos",
+            "Honduras",
+            "Brasil",
+            "Argentina"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "É considerado o primeiro presidente republicano do Brasil:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Floriano Peixoto",
+            "Deodoro da Fonseca",
+            "Júlio Preste",
+            "Campos Sales"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O nome de nossa escola é uma homenagem a um:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Presidente da república",
+            "Governador do Estado",
+            "Prefeito",
+            "Deputado"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Português que chegou em terras brasileiras em 1500:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Pedro Alvares Cabral",
+            "Cristóvão Colombo",
+            "Vasco da Gama",
+            "Bartolomeu Dias"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Navegador que chegou em 1492 na atual América:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Pedro Alvares Cabral",
+            "Cristóvão Colombo",
+            "Frei Caneca",
+            "Duque de Caxias"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Embarcação que permitia as grandes viagens no século XV:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Submarino",
+            "Caravela",
+            "Iate",
+            "Lancha"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Primeiro nome dado ao Brasil:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Brasil",
+            "Índias",
+            "Terra de Santa Cruz",
+            "Ilha de Vera Cruz"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Primeira Região a ser explorada no Brasil:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Sudeste",
+            "Centro Oeste",
+            "Norte",
+            "Nordeste"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Primeiro monte de terra visto no Brasil:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Natal",
+            "Pascoal",
+            "Evereste",
+            "Neblina"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Entre os países abaixo todos foram colonizados pelos espanhóis, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Bolívia",
+            "Estados Unidos",
+            "Argentina",
+            "Paraguai"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Primeiro país a se tornar independente na América:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "México",
+            "Brasil",
+            "Canadá",
+            "Estados Unidos"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Povos nativos da América:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Portugueses",
+            "Africano",
+            "Índios",
+            "Espanhóis"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Nome dado a cidade de Borrazópolis:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Catugi",
+            "Borrazópolis",
+            "Piraí",
+            "Guarani"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Tratado que dividiu as Terras Americanas:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Tordesilhas",
+            "Versalhes",
+            "Madri",
+            "Varsóvia"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Todos foram prefeitos de Borrazópolis, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Licas",
+            "José Naline",
+            "Mário Cividini",
+            "José Cassarotti"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "País pioneiro no setor industrial:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Inglaterra",
+            "China",
+            "Estados Unidos",
+            "Brasil"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Local no Brasil onde os portugueses chegaram em 1500:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Porto de Santos",
+            "Petrópolis",
+            "Porto Seguro",
+            "Rio de Janeiro"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Diretor(a) que antecedeu o diretor atual:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Tereza Domimgues",
+            "Judite Pereira",
+            "Helena Myiaji",
+            "Prof. Vicente"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Vereadora eleita com maior quantidade de votos em nosso município:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Dona Roma",
+            "Sonia Berti",
+            "Selma de Oliveira",
+            "Eva Cividini"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Autora da letra do Hino de Borrazópolis:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Irani Fitiz",
+            "Claudete Baun",
+            "Rafaela Cassarotti",
+            "Simone Godoy"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "País que colonizou os Estados Unidos:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "França",
+            "Portugal",
+            "Inglaterra",
+            "Espanha"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Primeira atividade econômica desenvolvida no Brasil:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Mineração",
+            "Pau-brasil",
+            "Cana-de-açúcar",
+            "Tropeirismo"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Povos que trabalharam como escravos no Brasil:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Africanos",
+            "Portugueses",
+            "Japoneses",
+            "Ingleses"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Atividade econômica que resultou no início da ocupação das terras paranaenses:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Erva-mate",
+            "Café",
+            "Tropeirismo",
+            "Mineração"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "As terras que hoje é o atual Paraná foi doada ao colonizador:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Pero Lopes",
+            "Gaspar Lemos",
+            "Martin Afonso",
+            "Bartolomeu Dias"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "A religião com o maior número de adeptos no Brasil é:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Cristianismo",
+            "Budismo",
+            "Catolicismo",
+            "Hinduismo"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Líder da Inconfidência Mineira:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Frei Caneca",
+            "Tiradentes",
+            "Zumbi",
+            "João Cândido"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Comemoramos no dia 15 de novembro:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Independência do Brasil",
+            "Aniversário do Brasil",
+            "Proclamação da República",
+            "Formação da União Ibérica"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Entre os personagens abaixo, qual é considerado o patriarca da Independência:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Tiradentes",
+            "Princesa Isabel",
+            "José Bonifácio",
+            "D. Pedro I"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Grito que entrou para a história:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Ordem e Progresso",
+            "Progresso e Ordem",
+            "Independência ou Morte",
+            "Sou brasileiro e não desisto nunca"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "É considerado o país populoso do mundo:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Estados Unidos",
+            "Canadá",
+            "Índia",
+            "China"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "A cidade de Borrazópolis faz aniversário em:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "08 de dezembro",
+            "21 de setembro",
+            "15 de novembro",
+            "14 de Dezembro"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "O Estado do Paraná tem:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "499 municípios",
+            "439 município",
+            "329 municípios",
+            "399 municípios"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Entre os países abaixo vive atualmente em regime de monarquia:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Inglaterra",
+            "Estados Unidos",
+            "França",
+            "África do Sul"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Todos foram governadores do Paraná exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Jaime Lerner",
+            "Álvaro Dias",
+            "Osmar Dias",
+            "Ney Braga"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Fato que entrou para a história em 22 de maio de 1992:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Acidente do trenzinho",
+            "A grande Geada",
+            "O vendaval",
+            "A inauguração do calçadão"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Estado anexado ao território brasileiro em 1903:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Rio Grande do Sul",
+            "Acre",
+            "Pará",
+            "Goiás"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Filha de D. Pedro I que casou com o tio com apenas 7 anos:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Maria Isabel",
+            "D. Maria I",
+            "Maria Leopoldina",
+            "Maria da Glória"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "D. João VI era casado com:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Princesa Isabel",
+            "D. Mara I",
+            "Carlota Joaquina",
+            "Maria Leopoldina"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Significado da palavra Paraná:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Terra Bonita",
+            "Terra roxa",
+            "Terra Fértil",
+            "Semelhante ao mar"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Símbolo do poder francês durante o período absolutista:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Palácio de Versalhes",
+            "Taj-Mahall",
+            "Torre Eiffel",
+            "Machu Pithu"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Capital de Tocantins:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Natal",
+            "Vitória",
+            "João Pessoa",
+            "Palmas"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Países que fazem parte América do Sul, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Argentina",
+            "Brasil",
+            "Estados Unidos",
+            "Uruguai"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Pretória é a capital:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "África do Sul",
+            "Angola",
+            "Moçambique",
+            "Serra Leoa"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "O Egito está localizado no continente:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Europeu",
+            "Asiático",
+            "Americano",
+            "Africano"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Crise econômica ocorrida em 1929 foi provocada:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Alemanha",
+            "União Soviética",
+            "Inglaterra",
+            "Estados Unidos"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Cidades que fazem parte do triângulo mineiro:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Uberlândia, Uberaba e Belo Horizonte",
+            "Juiz de Fora, Poços de Caldas e Montes Claros",
+            "Viçosa, Ouro Preto e Linhares",
+            "Três Corações, Poços de Caldas e Ouro Preto"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Português morto com uma flecha no rosto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Tomé de Souza",
+            "Duarte da Costa",
+            "Manuel Beckmann",
+            "Estácio de Sá"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "“Quem for brasileiro siga-me” frase dita:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "D. Pedro I",
+            "Duque de Caxias",
+            "Tiradentes",
+            "Thomas Jefferson"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Capital do Estados Unidos:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Nova York",
+            "Londres",
+            "Washington",
+            "Madri"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Todos vivem em regime monárquico, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Japão",
+            "África do Sul",
+            "Inglaterra",
+            "Espanha"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Bandeirante considerado desbravador do Sertão brasileiro:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Borba Gato",
+            "Antonio Feijó",
+            "Castelo Branco",
+            "José do Patrocínio"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Poeta autor da poesia “Canção do Exílio”:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Monteiro Lobato",
+            "Castro Alves",
+            "Gonçalves Dias",
+            "Machado de Assis"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Presidente brasileiro durante a Primeira Guerra Mundial:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Campos Sales",
+            "Venceslau Brás",
+            "Rodrigues Alves",
+            "Prudente de Morais"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Presidente brasileiro que queimou a produção de café:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Deodoro da Fonseca",
+            "Getúlio Vargas",
+            "Figueiredo",
+            "Costa e Silva"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Primeira religião monoteísta a surgir no mundo:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Cristianismo",
+            "Judaísmo",
+            "Islamismo",
+            "Taoísmo"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O imperador romano casado com Cleopatra:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Júlio César",
+            "Luis XVI",
+            "Alexandre Magno",
+            "Napoleão Bonaparte"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "O Egito é uma dádiva do Nilo. Frase dita pelo historiador grego:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Sargão II",
+            "Nabucodonosor",
+            "Heródoto",
+            "Rosseau"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "A deusa do amor para os povos gregos:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Hera",
+            "Afrodite",
+            "Héstia",
+            "Diana"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Cacique Xavante eleito deputado federal em 1982:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Mário Juruna",
+            "Aimberê",
+            "José Tamoio",
+            "Filipe Camarão"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Todos podem ser considerados ditadores, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Hitler",
+            "Sadam Hussem",
+            "Fidel Castro",
+            "Bill Clynton"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Prefeito mais novo que governou Borrazópolis:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Joviniano Miranda",
+            "Luis Vargas Prudencio",
+            "Marcão",
+            "José Naline"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Vereadora que foi mais vezes eleita em Borrazópolis:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Eva Cividini",
+            "Selma",
+            "Preta da Padaria",
+            "Dona Ivone Borelli"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Este era o partido de oposição dos governos militares:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "PT",
+            "ARENA",
+            "MDB",
+            "PC"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Considerado o pai do judaísmo:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Buda",
+            "Abraão",
+            "Cristo",
+            "Maomé"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Entre os grupos abaixo, assinale os que não são cristãos:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Mulçumanos",
+            "Católicos",
+            "Evangélicos",
+            "Ortodoxos"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Constituição brasileira que garantiu o voto feminino:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "1924",
+            "1934",
+            "1891",
+            "1946"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Todos foram opositores do presidente Getúlio Vargas, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Luis Carlos Prestes",
+            "Carlos Lacerda",
+            "Olga Bernário",
+            "Lula"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "A Primeira Guerra Mundial iniciou-se em:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "1939",
+            "1945",
+            "1914",
+            "1918"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Durante o período da República Velha a moeda brasileira era:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Cruzeiro",
+            "Cruzado",
+            "Real",
+            "Réis"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Todos os slogans abaixo popularizaram-se durante o regime militar, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "“Brasil: ame-o ou deixe-o”",
+            "“Pra frente, Brasil”",
+            "“Ninguém, segura este país”",
+            "“Brasil! Um país de todos”"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Entre os presidentes abaixo qual presidente que não foi eleito com o voto popular:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Fernando Collor",
+            "Tancredo Neves",
+            "Lula",
+            "Fernando Henrique"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Todos foram governos do Regime Militar, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Castelo Branco",
+            "Emílio Médici",
+            "Fernando Collor",
+            "Artur da Costa e Silva"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Durante a Segunda Guerra Mundial a Alemanha era governada pelo ditador:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Benito Mussolini",
+            "Adolf Hitler",
+            "Mandela",
+            "Stalin"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "A descoberta do fogo representa um momento importante do período:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Paleolítico",
+            "Medieval",
+            "Moderno",
+            "Neolítico"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "A guerra de Canudos aconteceu:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Bahia",
+            "Minas Gerais",
+            "Bolívia",
+            "Pernambuco"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "País da América que não se limita com oceanos:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Equador",
+            "Argentina",
+            "Bolívia",
+            "Chile"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Considerado sagrado na Índia:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Rio Nilo",
+            "Rio Ganges",
+            "Rio Iemanjá",
+            "Rio Eufrates"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Para os povos cristãos é considerado livro sagrado:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Bíblia",
+            "Corão",
+            "Torá",
+            "Tanach"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "É considerado o livro sagrado para o Islamismo:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Corão",
+            "Bíblia",
+            "Torá",
+            "Tanach"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Ponto turístico mais visitado no Paraná:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Vila Velha",
+            "Cataratas do Iguaçu",
+            "Passeio público",
+            "Ópera de Arame"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Movimento que derrubou o Regime Militar:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Republicano",
+            "Diretas já",
+            "Sem terra",
+            "Sem teto"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Presidente que proibiu o uso de biquíni no Brasil:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Castelo Branco",
+            "Jair Bolsonaro",
+            "Jânio Quadros",
+            "Figueredo"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "É considerado líder da Revolta dos Farrapos:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Bento Gonçalves",
+            "Tiradentes",
+            "José Bonifácio",
+            "Frei Caneca"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Esposa do líder Comunista Carlos Prestes:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Anita Garibaldi",
+            "Maria Quitéria",
+            "Chica da Silva",
+            "Olga Bernario"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Secretário da Educação do Paraná:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Renato Feder",
+            "Abraham Weintraub",
+            "Fernando Hadad",
+            "Milton Ribeiro"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Todos fazem limite com Borrazópolis, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Kaloré",
+            "Faxinal",
+            "Novo Itacolomi",
+            "São João do Ivaí"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Presidente que criou a CLT:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Collor",
+            "Dilma",
+            "Jango",
+            "Getúlio Vargas"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Em 1950 a Copa do Mundo de Futebol foi realizada:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Itália",
+            "Argentina",
+            "Brasil",
+            "EUA"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "A teoria que defende a existência humana pela evolução das espécies é denominada de:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Evolucionismo",
+            "Criacionista",
+            "Heliocêntrico",
+            "Geocêntrica"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Os seres humanos do Paleolítico eram considerados:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Nômades",
+            "Sedentários",
+            "Agricultores",
+            "Escravos"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Considerado pela Unesco como patrimônio Cultural da Humanidade:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Coliseu",
+            "Grande Muralha da China",
+            "Torre Eiffel",
+            "Muro de Berlim"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Imperador que incendiou Roma:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Marco Polo",
+            "Júlio César",
+            "Nabucodonosor",
+            "Nero"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Considerado o Pai da História:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Heródoto",
+            "Sócrates",
+            "Aristóteles",
+            "Platão"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Rei Inglês que rompeu com a Igreja Católica para se casar com a amante:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Luis XIII",
+            "Henrique VIII",
+            "Nicolau II",
+            "Carlos VI"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Ideologia que defende a exaltação dos valores nacionais:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Militarismo",
+            "Corporativismo",
+            "Totalitarismo",
+            "Nacionalismo"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Todos fizeram parte dos países vencedores da Primeira Guerra Mundial, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Alemanha",
+            "EUA",
+            "Inglaterra",
+            "França"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "O Regime de separação radical e imposta entre brancos e negros na África do Sul denominou-se:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Preconceito",
+            "Racismo",
+            "Aparthaid",
+            "Escravidão"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Primeiro presidente a governar o Brasil:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Juscelino Kubistchek",
+            "Fernando Collor",
+            "Jânio Quadros",
+            "Getúlio Vargas"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Terrorista Osama Bin Laden foi morto no:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Afeganistão",
+            "Cazaquistão",
+            "Paquistão",
+            "Irã"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Sistema na qual todos os cidadãos podem participar das decisões:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Monarquia",
+            "Oligarquia",
+            "Tirania",
+            "Democracia"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Rainha do Egito que se suicidou com uma mordida de uma serpente no seio:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Cleópatra",
+            "Catarina de Aragão",
+            "Odisséia",
+            "Afrodite"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Presidente que mandou construir a Petrobras:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Juscelino Kubitschek",
+            "Getúlio Vargas",
+            "Castelo Branco",
+            "Deodoro Fonseca"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Período em que os homens eram nômades:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Paleolítico",
+            "Neolítico",
+            "Idade Média",
+            "Idade Moderna"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Chefe político e religioso dos povos egípcios:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Faraó",
+            "Czar",
+            "Sacerdotes",
+            "Zeus"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "O Distrito Federal é formado por várias cidades chamadas?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Províncias",
+            "Satélite",
+            "Territórios",
+            "Estados"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O Rio São Francisco nasce:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Minas Gerais",
+            "Rio de Janeiro",
+            "Paraná",
+            "Santa Catarina"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "É considerado sagrado na Índia:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Cavalo",
+            "Camelo",
+            "Porco",
+            "Vaca"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Mona Lisa é considerado o quadro mais famoso do pintor:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Leonardo da Vinci",
+            "Rafael Sanzio",
+            "Portinari",
+            "Michelangelo"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Inventor do telefone:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Thomas Edson",
+            "Henry Ford",
+            "Grahan Bell",
+            "Santos Dumont"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Teoria que defende que Deus criou o homem:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Evolucionista",
+            "Criacionista",
+            "Existencialista",
+            "Espeiritualista"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Cientista brasileiro considerado o Pai da viação aérea:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Simon Bolivar",
+            "Santo Dumont",
+            "Thomas Mouros",
+            "Thomas Edson"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Autor do Romance Romeu e Julieta:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Leonardo da Vinci",
+            "Castro Alves",
+            "Thomas Mouros",
+            "William Shakespeare"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Destes foi o último país a tornar-se independente na América:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Paraguai",
+            "Argentina",
+            "Brasil",
+            "Chile"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Machu Pichu patrimônio histórico situado:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Peru",
+            "México",
+            "Guatemala",
+            "Canadá"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Mulher negra que entrou para a história por ter conquistado o coração do rico contratador português João Fernandes de Oliveira:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Maria Quitéria",
+            "Chica da Silva",
+            "Marquesa de Santos",
+            "Anita Garibald"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "20 de Novembro comemora-se:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Morte de Tiradentes",
+            "Morte de Frei Caneca",
+            "Morte de Zumbi",
+            "Morte de Antonio Conselheiro"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "A sociedade indiana era dividida em:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Classes",
+            "Degraus",
+            "Castas",
+            "Zigurate"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Pirâmides encontradas no Egito, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Quéops",
+            "Quéfren",
+            "Miquerinos",
+            "Coliseu"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Muro que tornou símbolo da divisão do mundo durante a Guerra Fria:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Muro de Berlim",
+            "Muro de Tróia",
+            "Muro de Bagdá",
+            "Muro das Lamentações"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Conhecido como Rei do Cangaço?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Zumbi",
+            "Oscarito",
+            "João Calango",
+            "Lampião"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Políticos cassados pelo Regime Militar, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Leonel Brizola",
+            "João Goulart",
+            "Juscelino Kubitschek",
+            "Getúlio Vargas"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Opositores do Regime Militar exilados, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "José Serra",
+            "Fernando Collor",
+            "Jango",
+            "Fernando H. Cardoso"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Primeiro presidente negro da África do Sul:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Nelson Mandela",
+            "Malcolm X",
+            "Martin Luther King",
+            "Barack Obama"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Estado judeu criado na Palestina em 1948:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Iraque",
+            "Irã",
+            "Kuwait",
+            "Israel"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "País vitimado com a bomba atômica:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Alemanha",
+            "Japão",
+            "Iraque",
+            "Kuwait"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Ditador iraquiano morto enforcado:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Yitzak Kabin",
+            "Sadam Hussen",
+            "Mustafá Said",
+            "Samir Mamud"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Território romano considerado a sede do catolicismo:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Vaticano",
+            "Itália",
+            "Veneza",
+            "Milão"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Topógrafo que dividiu as terras de Borrazópolis:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Otávio Tomaz Faria",
+            "Joaquim Pinheiro",
+            "Angelo Cerutti",
+            "Manuelão"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Todos são considerados pioneiros de Borrazópolis, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Pedro Bulek",
+            "Otávio Tomaz Barbosa",
+            "Irineu Bassaco",
+            "Padres Osvaldo"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "A D. Maria Leopoldina, Imperatriz do Brasil era cunhada do Imperador Francês:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Luiz XIV",
+            "Czar Nicolau II",
+            "Napoleão Bonaparte",
+            "Henrique VIII"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Primeiro índio a se tornar deputado no Brasil:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Kaingang",
+            "Carijó",
+            "Tapuia",
+            "Juruna"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "O período da história que descreve o aparecimento dos primeiros seres humanos é denominado:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Paleolítico",
+            "Neolítico",
+            "Idade Média",
+            "Idade Moderna"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Foram imperadores romanos, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Julio Cesar",
+            "Marco Antonio",
+            "Otávio Augusto",
+            "Luis Felipe"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Presidente eleito em 1985 que faleceu antes de tomar posse:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Tancredo Neves",
+            "Floriano Peixoto",
+            "Gaspar Dutra",
+            "Venceslau Brás"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Democracia foi um sistema de governo que se desenvolveu no século V a. C:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "China",
+            "Grécia",
+            "França",
+            "Itália"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Esse é considerado o rei mais sábio do mundo:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Davi",
+            "Saul",
+            "Salomão",
+            "Moises"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Iemanjá para os povos africano significa:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Deusa do Amor",
+            "Deusa da Sabedoria",
+            "Deusa da Guerra",
+            "Deusa das águas"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "\"Ninguém nasce odiando outra pessoa pela cor de sua pele, por sua origem ou ainda por sua religião. Para odiar, as pessoas precisam aprender, e se podem aprender a odiar, podem ser ensinadas a amar.\" Frase dita por:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Abraão Lincon",
+            "Chiquinha Gonzaga",
+            "Machado de Assis",
+            "Nelson Mandela"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Cidade que foi fundada pelos irmãos Remo e Rômulo:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Esparta",
+            "Atenas",
+            "Roma",
+            "Córsega"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Local sagrado para os povos muçulmanos:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Igreja",
+            "Templos",
+            "Coliseu",
+            "Meca"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Comemoramos em 19 de dezembro de 1853 a emancipação política do estado:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Acre",
+            "Tocantins",
+            "Paraná",
+            "Amapá"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "\"Posso não concordar com nenhuma palavra que tu dizer mas defenderei até a morte o direito de dize-las.\" Frase dita pelo filosofo francês:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Platão",
+            "Sócrates",
+            "Rosseau",
+            "Voltaire"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Todos lutaram por direitos humanos, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Zumbi",
+            "Castro Alves",
+            "Mandela",
+            "Duque de Caxias"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "\"Eu tenho um sonho. Um Sonho de ver os meus filhos serem julgados pelo o seu caráter, não pela cor de sua pele.\" Frase dita por:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Abraão Lincon",
+            "Martin Luther King",
+            "Machado de Assis",
+            "Nelson Mandela"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Sócrates é conhecido pela famosa frase:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "O homem nasce bom a sociedade que o corrompe.",
+            "Quer conhecer a pessoa de pode a ela.",
+            "Só sei que nada sei.",
+            "Quem para de aprender esquece o que já sabe."
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "O termo \"Populismo\" no Brasil foi adotado durante o governo:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Getulio Vargas",
+            "Juscelino Kubitschek",
+            "Castelo Branco",
+            "Luiz Inácio Lula da Silva"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Região do subsolo brasileiro onde foi encontrado petróleo em 2007:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Subsolo Territorial",
+            "Pré-sal",
+            "Pré-petróleo",
+            "Solo submarino"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Comissão criada com o objetivo de apurar os crimes cometidos durante a Ditadura Militar:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Comissão da tortura",
+            "Comissão da justiça",
+            "Comissão de deliberação",
+            "Comissão da verdade"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Considerada a terceira maior hidrelétrica do mundo?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Três Gargantas",
+            "Altamira",
+            "Belo Monte",
+            "Itaipu"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Nome dado à relação de livros proibidos pela Igreja Católica aprovado no Concílio de Trento:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Index",
+            "Novex",
+            "Livros proibitivos",
+            "Trentina"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Considerado o pai da Anatomia Moderna:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Galileu Galilei",
+            "Rembrandt",
+            "Andreas Vesalius",
+            "Dante"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Guerra contra os \"infiéis\" para reconquistar a Terra Santa:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Cruzadas",
+            "Guerra de Reconquista",
+            "Revolução Cristã",
+            "Cristianização"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "País considerado berço do Renascimento:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Holanda",
+            "França",
+            "Itália",
+            "Alemanha"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Cidades italianas que passaram a acumular grandes riquezas com o comércio com o Renascimento:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Roma, Gênova e Nápoles",
+            "Toscana, Florença e Veneza",
+            "Veneza, Roma e Toscana",
+            "Gênova, Veneza e Florença"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Epidemia provocada por uma bactéria transmitida por pulgas, os ratos e nos seres humanos:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "A grande peste",
+            "Gripe H1N1",
+            "Hepatite C",
+            "Ebola"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Cidade Brasileira conhecida por: “Cidade Maravilhosa”:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Brasileira",
+            "São Paulo",
+            "Fortaleza",
+            "Rio de Janeiro"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Professora que morreu (2017) tentando salvar crianças em creche em Janauba-MG:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Katia Abreu",
+            "Keila Abreu",
+            "Heley Abreu",
+            "Kely Abreu"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "O Rio Ivai nasce em:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Prudentópolis",
+            "Carambei",
+            "Cascavel",
+            "Foz do Iguaçu"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Salário mínimo foi criado em 1936. Durante o governo:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "JK",
+            "Itamar Franco",
+            "Fernando Collor",
+            "Getúlio Vargas"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Foi a primeira Prefeita de Borrazópolis:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Selma Maria",
+            "Eva Cividini",
+            "Malu",
+            "Sônia Berti"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "O período da história da humanidade que se inicia com o aparecimento da escrita cuneiforme e vai até a tomada do Império Romano pelos bárbaros é conhecido como:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "História Moderna",
+            "Pré-História",
+            "História Antiga",
+            "História Medieval"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Sobre a Pré-História, foi este quem iniciou a atividade de lascar pedras para a confecção de ferramentas e utensílios e marcou o início do que chamamos de Idade da Pedra:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Homo habilis",
+            "Homo Sapiens",
+            "Homem de Neandertal",
+            "Homo erectus"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Em qual recorte temporal está inserida a História Antiga?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "entre 5.000 a.C. e se estende até o ano 500 d.C.",
+            "entre 4.000 a.C. e se estende até o ano 476 d.C.",
+            "entre 3.500 a.C. e se estende até o ano 350 d.C.",
+            "entre 4.500 a.C. e se estende até o ano 800 d.C."
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Foi responsável pelo domínio do fogo e sua aparição data de aproximadamente 2 milhões de anos:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Homo sapiens sapiens",
+            "Homo sapiens neanderthalensis",
+            "homem de Neandertal",
+            "Homo erectus"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Qual civilização se formou no vale do rio Nilo, no nordeste da África e se organizou em torno de 3.200 a. C. como um império?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "A Síria",
+            "Pérsia",
+            "O Egito",
+            "A China"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Qual foi uma das formas de expressar o cotidiano por meio de pinturas e gravuras, deixadas na pedra, em paredes de abrigos e cavernas dos grupos humanos pré-históricos?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Arte Rupestre",
+            "Arte das cavernas",
+            "Arte Pré-histórica",
+            "Arte rústica"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Civilização localizada na Ásia Menor, reuniu uma civilização entre os rios Tigre e Eufrates e tinha como povos mais importantes os sumérios e os babilônios:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Egito",
+            "Mesopotâmia",
+            "Hebreus",
+            "Fenícios"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "É uma espécie extinta do gênero Homo, cuja existência está ligada à evolução do homem moderno. O nome desta espécie é uma referência ao vale de Neander, na Alemanha:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Homo erectus",
+            "Homo habilis",
+            "Homo sapiens",
+            "Homo neanderthalensis ou Homem de Neandertal"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "A unidade administrativa que tornava viável o controle do extenso território do Império Aquemênida, permitindo a coleta de impostos, recrutamento de contingente militar e significava província era a:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Feudo",
+            "Colonia",
+            "Satrapia",
+            "Capitania"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Nome do Período marcado pelo domínio do Império Macedônio sobre a Grécia:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Período Helenístico",
+            "Período Homérico",
+            "Período das Grandes Guerras",
+            "Período Hebraico"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Um dos mais emblemáticos líderes políticos da antiguidade e filho do Rei Felipe II da Macedônia:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Ciro, o Grande",
+            "Alexandre Magno",
+            "Júlio César",
+            "Felipe III"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Conflito ocorrido entre as duas principais ligas da Grécia Antiga, comandadas por Atenas e Esparta:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Guerra de Delos",
+            "Guerra Grega",
+            "Guerra dos Espartanos",
+            "Guerra do Peloponeso"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Conflitos ocorridos durante o que chamamos de Período Clássico da Grécia Antiga, especialmente entre os anos de 490 e 479 a.C., entre os gregos e os persas:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Guerras Gregas",
+            "Guerras Médicas",
+            "Guerras Hispânicas",
+            "Guerra de Corinto"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Presidente interino a assumir o cargo após aprovação do processo de impeachment da Presidente Dilma:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Gilmar Mendes",
+            "Eduardo Cunha",
+            "José Serra",
+            "Michel Temer"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Qual é o período de afastamento da presidente durante o processo de impeachment?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "180 dias",
+            "175 dias",
+            "3 meses",
+            "4 meses"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Publicação que em 1943 fez críticas à entrada do Brasil na II Guerra, em desacordo com a política de Vargas:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Manifesto Comunista",
+            "Manifesto dos Mineiros",
+            "Manifesto dos Goianos",
+            "Manifesto da Revolução"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Nome da política econômica de Juscelino Kubitschek que prometia um crescimento de 50 anos em 5:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Milagre Econômico",
+            "Plano de Metas",
+            "Plano de Crise",
+            "Plano Econômico"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Como era denominado o atual Distrito Federal que tinha como sede a cidade do Rio de Janeiro na época do Brasil Império?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Estado da Guanabara",
+            "Estado do Rio de Janeiro",
+            "Estado do Império",
+            "Estado da Coroa"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Como ficou conhecido o famigerado e mais violento ato baixado pela ditadura militar no Brasil?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "AI-4, de 13.05.1967",
+            "AI-1, de 13.12.1968",
+            "AI-5, de 13.12.1968",
+            "AI-6, de 12.12.1978"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Como ficou conhecida a lei que reduzia a propaganda política, prejudicando a oposição durante a ditadura?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Lei Seca",
+            "Lei Águia",
+            "Lei Falcão",
+            "Lei da Imprensa"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Motivo do pedido de impeachment da presidente Dilma?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Corrupção",
+            "Pedaladas Fiscais",
+            "Lavagem de dinheiro",
+            "Fraude nas eleições"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Entre os políticos abaixo todos estão sendo investigados na Lava Jato, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Eduardo Cunha",
+            "Renan Calheiros",
+            "Romero Jucá",
+            "Tiririca"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "O Estado Islâmico (EI), uma das organizações terroristas mais sanguinárias da atualidade, tem estabelecido controle sobre quais regiões?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "do Iraque e da Síria",
+            "da Palestina e Índia",
+            "da África do Sul e do Camboja",
+            "da Polônia e da Rússia"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Quais as ações que os membros do Estado Islâmico promovem contra as populações das cidades que ocupam?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Crucificações e fuzilamento, mas proteção aos curdos.",
+            "Decapitações, fuzilamento, crucificações, estupro e carbonização de pessoas vivas.",
+            "Aliança com os sírios e fuzilamento apenas de iraquianos.",
+            "Aliança com os curdos e fuzilamento dos sírios."
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quais fatores de ordem internacional que também foram importantes para a abdicação de D. Pedro I ao reinado no Brasil?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "A União Ibérica e a guerra contra os Holandeses.",
+            "A guerra civil portuguesa e a guerra civil espanhola.",
+            "A Guerra de Secessão Americana e a Guerra dos Farrapos.",
+            "A morte de Dom João VI, de Portugal, e a queda de Carlos X, da França."
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Idealizador da teoria clássica da tripartição de Poderes adotada pelo Brasil:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Montesquieu",
+            "Maquiavel",
+            "Eros Grau",
+            "Durkheim"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Juiz Federal responsável pelas investigações no caso “lava jato”:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Gilmar Mendes",
+            "Joaquim Barbosa",
+            "Sérgio Moro",
+            "Sergio Papin"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "O Senado Federal é composto por quantos senadores?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "79 senadores",
+            "81 senadores",
+            "83 senadores",
+            "77 senadores"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual período de tempo que um senador permanece no mandato?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "6 anos",
+            "4 anos",
+            "8 anos",
+            "5 anos"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "O primeiro exército organizado do mundo, com recrutamento obrigatório e que se tornou uma força permanente após o reinado de Tiglatfalasar III (745 - 728 a. C.), foi uma criação dos:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "egípcios",
+            "caldeus",
+            "assírios",
+            "sumérios"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Presidente do Brasil deposto pela Revolução de 1930:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Washington Luís",
+            "Augusto Fragoso",
+            "Isaías de Noronha",
+            "Artur Bernardes"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "A famosa frase atribuída a Luís XIV: \"O Estado sou eu\", define:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "o absolutismo",
+            "o iluminismo",
+            "o liberalismo",
+            "o patriotismo do rei"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Na Constituição de 1.824, havia um poder que deveria garantir o equilíbrio entre os demais poderes e que seria exercido pelo imperador. Trata-se do Poder:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Executivo.",
+            "Legislativo.",
+            "Judiciário.",
+            "Moderador."
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Em 1865, o acordo da Tríplice Aliança uniu quais países para a guerra contra o Paraguai?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Brasil, Argentina e Inglaterra",
+            "Brasil, Argentina e Uruguai",
+            "Brasil, Uruguai e Bolívia",
+            "Argentina, Uruguai e Bolívia"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quais casas legislativas compõem o Congresso Nacional?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Assembleia Legislativa e Câmara de Vereadores",
+            "Câmara dos Senadores e Deputados",
+            "Câmara dos Deputados e Senado Federal",
+            "Câmara dos Lordes e Senado Federal"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Qual a função precípua do Poder Legislativo Brasileiro?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Executar as leis",
+            "Julgar crimes comuns",
+            "Propor o Estado de Defesa",
+            "Elaborar e Propor Projetos de Leis"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Compete precipuamente ao Supremo Tribunal Federal, conforme art. 102 da CF/88:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Julgar o Presidente da República",
+            "A guarda da Constituição",
+            "Processar os deputados",
+            "A guarda da leis"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "No caso de aceitação da acusação crime de responsabilidade, praticado pelo Presidente da República, será este julgado perante:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "o Senado Federal",
+            "Superior Tribunal de Justiça",
+            "Câmara dos Deputados",
+            "Supremo Tribunal Federal"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Qual é o quórum de votação no Senado para aprovação do impeachment da presidenta Dilma?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "1/3 dos 81 Senadores",
+            "2/3 dos 83 Senadores",
+            "2/5 dos 79 Senadores",
+            "2/3 dos 81 Senadores"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Durante o processo de impeachment no Senado, quem atuará como presidente desta respectiva casa?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "O Presidente do Senado",
+            "O Presidente da Câmara dos Deputados",
+            "O Presidente do Supremo Tribunal Federal",
+            "O Presidente do Superior Tribunal de Justiça"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Nome do então Advogado Geral da União que fez a defesa da presidenta Dilma no processo de impeachment:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "José Eduardo Martins Cardozo",
+            "Fábio Medina Osório",
+            "Joaquim Barbosa",
+            "Gilmar Mendes"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Quando uma constituição de um país é elaborada sem a participação popular, dizemos que ela foi:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Promulgada",
+            "Outorgada",
+            "Proposta",
+            "Referendada"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Fato que entrou para História do Paraná ocorrido no dia 29 de abril de 2015:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Massacre da Candelária",
+            "Festividades da emancipação política",
+            "Chuvas de Granizo",
+            "Massacre dos educadores"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Foram decisões do Congresso de Viena, exceto:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "restabelecer o absolutismo na Europa",
+            "acabar com o sistema de colonização",
+            "bloquear o avanço do liberalismo",
+            "a defesa do Princípio da Legitimidade"
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O Supremo Tribunal Federal – STF é composto por quantos ministros?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "13 ministros",
+            "10 ministros",
+            "11 ministros",
+            "15 ministros"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Nome do primeiro presidente negro da história dos Estados Unidos da América:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Ronald Trump",
+            "Martin Luther King",
+            "Nelson Mandela",
+            "Barack Obama"
+        ],
+        "resposta": 3
+    },
+    {
+        "pergunta": "Países membros do Mercosul?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Argentina, Brasil, Paraguai, Uruguai e Venezuela",
+            "Brasil, China, Bélgica, México e Chile",
+            "Uruguai, Paraguai, Equador e Haiti",
+            "Argentina, Brasil, Equador e México"
+        ],
+        "resposta": 0
+    },
+    {
+        "pergunta": "Que instituição tem como principal objetivo criar um mercado comum com livre circulação de bens, serviços e fatores produtivos?",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "NAFTA",
+            "União Europeia",
+            "Mercosul",
+            "OMC"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "A Revolução Farroupilha tinha como objetivo proclamar a república:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "De São Paulo",
+            "Mineira",
+            "Rio-Grandense",
+            "Paranaense"
+        ],
+        "resposta": 2
+    },
+    {
+        "pergunta": "Entre 1831 e 1835 governou o Brasil a:",
+        "dificuldade": "Médio",
+        "opcoes": [
+            "Regência Una do Padre Feijó",
+            "Regência Trina Provisória",
+            "Regência Una de Araújo Lima",
+            "Regência Trina Permanente"
+        ],
+        "resposta": 1
+    }
+]
